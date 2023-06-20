@@ -1,0 +1,6 @@
+num1 = input("Enter a number and press Enter")
+num2 = input("Enter a Number you want to add and press Enter")
+result= float(num1) + float(num2)
+
+print ("The sum is") 
+print (result)
